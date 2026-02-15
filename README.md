@@ -107,7 +107,6 @@ paper.pdf
 README.md
 ```
 
-(Add code if available)
 
 ---
 
